@@ -1,0 +1,20 @@
+name: papiforhseer
+version: '1.0-SNAPSHOT'
+main: org.hseermc.papiforhseer.Papiforhseer
+api-version: '1.21'
+depend: [XinxinBotApi]
+# Replace "kit" with the name of your command.
+commands:
+  qq:
+    description: 发消息到qq群
+    usage: /qq
+    permission: hseermc.qq
+  q:
+    description: 控制台发消息到qq
+    usage: /q
+    permission: hseermc.q
+  chaxun:
+    description: 查询
+    usage: /chaxun
+    permission: hseermc.chaxun
+
