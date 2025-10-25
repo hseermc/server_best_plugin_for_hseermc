@@ -1,0 +1,2 @@
+# server_best_plugin_for_hseermc
+我自己用的飞舞插件
